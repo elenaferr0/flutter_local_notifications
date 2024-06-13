@@ -23,7 +23,7 @@ dev_dependencies:
   plugin_platform_interface: ^2.0.0
 
 dependency_overrides:
-  meta: ^1.15.0
+  meta: ^1.14.0
 
 flutter:
   plugin:
